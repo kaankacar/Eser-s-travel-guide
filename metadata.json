@@ -1,0 +1,7 @@
+{
+  "name": "Eser's Russia Guide",
+  "description": "A personal travel companion for Moscow and St. Petersburg featuring a location-based attraction finder and a specialized public transport chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
